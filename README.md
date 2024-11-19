@@ -19,12 +19,7 @@ This is a simple **Healthcare Dashboard** built with **React.js** and **Bootstra
 - **React Icons**: To include icons for light/dark theme toggle.
 - **CSS**: For additional styling and theme customization.
 
-## Installation
 
-To get this project up and running locally, follow the steps below:
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/healthcare-dashboard.git
-cd healthcare-dashboard
+### Live Demo
+You can view the live version of the project hosted on GitHub Pages at:
+https://selvaajeeths.github.io/Healthcare-dashboard/
